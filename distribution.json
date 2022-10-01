@@ -257,20 +257,6 @@
           }
         },
         {
-          "id": "bspkrs.bspkrscore.fml:bspkrsCore:7.01@jar",
-          "name": "BspkrsCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 63133,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/[1.8]bspkrsCore-universal-7.01.jar",
-            "MD5": "46cbd68785f311b08946b1db77c13e74"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "lumien.custommainmenu:CustomMainMenu:2.0@jar",
           "name": "Custom Main Menu",
           "type": "ForgeMod",
