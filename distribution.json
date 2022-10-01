@@ -215,12 +215,40 @@
           ]
         },
         {
+          "id": "bspkrs.armorstatushud.fml:ArmorStatusHUD:1.29@jar",
+          "name": "ArmorStatusHUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30198,
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8.9]%20ArmorStatusHUD.jar",
+            "MD5": "161d2cbe68bb1c50004ef5b5c59a9646"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "bspkrs.statuseffecthud.fml:StatusEffectHUD:1.27@jar",
+          "name": "StatusEffectHUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26448,
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8.9]%20StatusEffectHUD.jar",
+            "MD5": "0cef5a3326f9f1b7a9b0946b21f9469e"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "bspkrs.armorstatushud.fml:armorstatushud:1.8.9.2@jar",
           "name": "ArmorStatusHUD",
           "type": "ForgeMod",
           "artifact": {
             "size": 26578,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/[1.8.9]ArmorStatusHUD-client-1.8.9.2.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8.9]ArmorStatusHUD-client-1.8.9.2.jar",
             "MD5": "fb7932412b5ec90b9a35408e5dce53f5"
           },
           "required": {
@@ -234,7 +262,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 54251,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/[1.8.9]bspkrsCore-universal-1.8.9.2.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8.9]bspkrsCore-universal-1.8.9.2.jar",
             "MD5": "bfe73f7052363144913681a7d5032653"
           },
           "required": {
@@ -248,8 +276,22 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24311,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/[1.8.9]StatusEffectHUD-client-1.8.9.2.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8.9]StatusEffectHUD-client-1.8.9.2.jar",
             "MD5": "04fc407a7e3eab7f356d5227f8babd27"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "bspkrs.bspkrscore.fml:bspkrsCore:7.01@jar",
+          "name": "BspkrsCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63133,
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/[1.8]bspkrsCore-universal-7.01.jar",
+            "MD5": "46cbd68785f311b08946b1db77c13e74"
           },
           "required": {
             "value": false,
@@ -262,7 +304,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 169801,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/CustomMainMenu-MC1.8.9-2.0.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/CustomMainMenu-MC1.8.9-2.0.jar",
             "MD5": "b0598d43b7b7474ee05ef5af10924b68"
           },
           "required": {
@@ -276,7 +318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95831,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/Keystrokes-8.1.2%20(1.8.9).jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/Keystrokes-8.1.2%20(1.8.9).jar",
             "MD5": "fb1a2c0daf43d3235e43b6e8190243bb"
           },
           "required": {
@@ -290,7 +332,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1469653,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/MoreCosmetics-Forge-1.8.9.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/MoreCosmetics-Forge-1.8.9.jar",
             "MD5": "e5904f74c7b417eb54430ababf7912d5"
           },
           "required": {
@@ -304,23 +346,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2585014,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/forgemods/optionaloff/OptiFine_1.8.9_HD_U_M5.jar",
+            "url": "https://github.com/fabhay2/Root/raw/main/servers/Athena-1.8.9/forgemods/optionaloff/OptiFine_1.8.9_HD_U_M5.jar",
             "MD5": "0765dc1bcbe5baa83f7c261ac2c133ed"
           },
           "required": {
             "value": false,
             "def": false
-          }
-        },
-        {
-          "id": "forge.cfg",
-          "name": "forge.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 3027,
-            "url": "https://github.com/fabhay2/Root/raw/main/servers/AthenaPvP-1.8.9/files/config/forge.cfg",
-            "MD5": "c4214ff413a45df989890074db2bccc6",
-            "path": "config/forge.cfg"
           }
         }
       ]
